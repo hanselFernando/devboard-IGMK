@@ -4,6 +4,8 @@
 const botaoSol = document.querySelector("#botao-sol")
 const botaoLua = document.querySelector("#botao-lua")
 
+
+
 const body = document.querySelector("body")
 
 function mudaParaOTemaEscuro() {
